@@ -9,5 +9,3 @@ puts "Your third variable is: #{third}"
 puts "Put some input in."
 input = $stdin.gets.chomp
 puts "Here is your #{input}."
-
-# I got confused on this situation. Make sure you read everything in the exercise including potential questions from students.

@@ -10,5 +10,3 @@ number = another.to_f
 
 smaller = number / 100
 puts "A smaller number is #{smaller}."
-
-# Mistake: forgetting spaces and typos

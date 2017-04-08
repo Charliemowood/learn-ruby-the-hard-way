@@ -26,5 +26,3 @@ Alright, so you said #{likes} about liking me.
 You live in #{lives}. Not sure where that is.
 And you have a #{computer} computer. Nice. The two random things are #{first} and #{second}.
 """
-
-# missed the word, pay attention to code you do not understand, you are more likely to skip it.

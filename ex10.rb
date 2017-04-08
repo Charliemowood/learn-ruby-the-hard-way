@@ -15,8 +15,6 @@ puts persian_cat
 puts backslash_cat
 puts fat_cat
 
-# make sure that everything enclosed by the right amount.
-
 # \\ escape for backslash
 # single quote \'
 #

@@ -15,7 +15,3 @@ puts formatter % {
   third: "But it didn't sing.",
   fourth: "So I said goodnight."
 }
-# money is the anthem
-
-# I made mistake with the commnas sadly, the syntax after this format thing x: dfsdf, y: dsdffs,
-# I missed my mum and dad for this, when I hear the stars.
